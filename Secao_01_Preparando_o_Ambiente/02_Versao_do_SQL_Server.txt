@@ -1,0 +1,14 @@
+Versão do SQL Server
+
+Vocês verão que o curso é ministrado no SQL Server 2016. Uma das perguntas que recebo é:
+
+
+-Mafra, posso fazer no SQL Server 2017 ou 2019?
+
+
+Sim! Pode! Tudo que é ministrado aqui é CEM POR CENTO compatível com a versão mais nova do SQL Server. SEM NENHUMA MODIFICAÇÃO. No entanto, eu aconselho vocês a fazerem o curso no SQL Server 2016 mesmo, visto que não há alterações, pois instalar o SQL Server 2019 é ligeiramente diferente.
+
+
+Após terminar o curso, sintam-se à vontade para tentar instalar o SQL Server 2019 e quebrarem a cabeça com a instalação como efeito de ESTUDOS! É assim que se aprende! Vocês verão que os componentes de ETL são os mesmos!
+
+Um grande abraço
